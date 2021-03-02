@@ -39,4 +39,6 @@ ADVANCE
 30. *Args 
 31. **Kwargs 
 32. Generators 
-33. Decorators 
+33. Decorators
+34. Shallow Copy vs Deep Copy
+35. JSON
