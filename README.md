@@ -42,3 +42,4 @@ ADVANCE
 33. Decorators
 34. Shallow Copy vs Deep Copy
 35. JSON
+36. Regular Expression
